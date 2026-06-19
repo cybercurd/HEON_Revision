@@ -1,19 +1,20 @@
-# Med School Revision Guide · Basic Sciences
+# Med School Revision Guide
 
-This is a static GitHub Pages website.
-
-## Files
-
-- `index.html` — main website file
-- `.nojekyll` — tells GitHub Pages to serve the site as plain static HTML
+GitHub Pages-ready static website.
 
 ## Upload to GitHub
 
 1. Create a new GitHub repository.
-2. Upload the contents of this folder to the root of the repository.
+2. Upload `index.html`, `.nojekyll`, and this `README.md` to the root of the repository.
 3. Go to **Settings → Pages**.
 4. Under **Build and deployment**, choose **Deploy from a branch**.
-5. Choose branch: `main`, folder: `/root`.
-6. Save.
+5. Select the `main` branch and `/root`, then save.
 
-GitHub will publish the site after deployment completes.
+Your site will publish as a GitHub Pages website.
+
+## Included modules
+
+- Home page with Year 1 Basic and Year 2 Basic sections
+- Respiratory Sciences module with topic sidebar
+- Hematology and Oncology module with topic sidebar
+- Placeholder modules for future subjects
